@@ -24,7 +24,7 @@ I am a student at RMD Engineerin college. Interested in AI , IoT, Web/App develo
 <a href="https://github.com/sarand3011">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarand3011&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarand3011&layout=compact&langs_count=8&theme=algolia"/> --> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarand3011&show_icons=true&theme=algolia&count_private=true" alt="anushka23g" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarand3011&show_icons=true&theme=algolia&include_all_commits&count_private=true" alt="sarand3011" />
 
 </a>
 </p>
