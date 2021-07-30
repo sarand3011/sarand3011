@@ -18,7 +18,7 @@ I am a student at RMD Engineerin college. Interested in AI , IoT, Web/App develo
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="left">
 <a href="https://github.com/sarand3011">
